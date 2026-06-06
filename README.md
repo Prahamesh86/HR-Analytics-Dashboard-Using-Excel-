@@ -122,6 +122,6 @@ Prathamesh Sonawane
 
 📧 Email: pprathamesh062@gmail.com
 
-🔗 LinkedIn:  http://www.linkedin.com/in/prathamesh-sonawane-dataanalytics 
+🔗 LinkedIn:  http://www.linkedin.com/in/prathamesh-sonawane-data-analytics 
 
 💼 Aspiring Data Analyst | Excel | SQL | Power BI | Python | Machine learning
