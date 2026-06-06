@@ -120,8 +120,8 @@ Business Insight Generation
 
 Prathamesh Sonawane
 
-📧 Email: Your Email Here
+📧 Email: pprathamesh062@gmail.com
 
-🔗 LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn:  http://www.linkedin.com/in/prathamesh-sonawane-dataanalytics 
 
-💼 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+💼 Aspiring Data Analyst | Excel | SQL | Power BI | Python | Machine learning
